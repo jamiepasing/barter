@@ -1,4 +1,4 @@
-# Barter - POS and Inventory Management
+# Barter - POS and Inventory Management (ON HOLD FOR NOW)
 
 ## Overview
 Barter is a web and Cordova-based POS and inventory management application inspired by the historical concept of barter. It modernizes sari-sari store operations by providing FIFO-based inventory handling, expiration tracking, POS transactions, and profit monitoring through a simple and accessible interface. 
